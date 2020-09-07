@@ -77,7 +77,7 @@ products:
 subscription:
   enable: true
   bg_image: images/call-to-action.jpg
-  title: Get Product Updates
+  title: Updates
   content: Register here if you want to know whenever new items are on sale
   placeholder: Your Email Address Here
 testimonial:

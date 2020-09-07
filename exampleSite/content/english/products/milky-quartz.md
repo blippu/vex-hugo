@@ -1,12 +1,11 @@
 +++
-colors = ["black", "white", "gray"]
+colors = ["milky"]
 date = 2019-10-17T05:22:16Z
 description = "this is meta description"
-discount_price = "25.00"
-draft = true
+discount_price = ""
 images = ["images/showcase/showcase-3.png", "images/showcase/showcase-2.png", "images/showcase/showcase-1.png", "images/showcase/showcase-4.png"]
-price = "30.00"
-sizes = ["small", "medium", "large"]
+price = "1"
+sizes = ["medium", "large"]
 title = "Milky quartz"
 
 +++

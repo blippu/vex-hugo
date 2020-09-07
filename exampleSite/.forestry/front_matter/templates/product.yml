@@ -28,6 +28,5 @@ fields:
   label: sizes
 pages:
 - exampleSite/content/english/products/aragonite-sputnik-1.md
-- exampleSite/content/english/products/aragonite-sputnik.md
 - exampleSite/content/english/products/milky-quartz.md
 - exampleSite/content/english/products/moss-agate.md

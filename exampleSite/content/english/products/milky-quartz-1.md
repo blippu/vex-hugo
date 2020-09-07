@@ -1,5 +1,5 @@
 +++
-colors = ["moss"]
+colors = ["milky"]
 date = 2019-10-17T05:22:16Z
 description = "this is meta description"
 discount_price = ""

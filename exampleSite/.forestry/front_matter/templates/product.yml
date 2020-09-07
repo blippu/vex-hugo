@@ -26,5 +26,3 @@ fields:
 - type: list
   name: sizes
   label: sizes
-pages:
-- exampleSite/content/english/products/aragonite-sputnik-1.md

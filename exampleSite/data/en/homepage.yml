@@ -9,7 +9,7 @@ banner:
   image: "/images/s-2015_lro_earth_and_limb_m1199291564l_color_2stretch_mask_0.jpeg"
   button:
     enable: true
-    label: Browse All Products
+    label: Browse all gems and specimens
     link: products
 features:
   enable: true

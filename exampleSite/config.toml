@@ -55,7 +55,7 @@ currency = "£"
 description = "This is meta description"
 logo = "/images/capture.PNG"
 logo_width = "100px"
-snipcart_api = "ZDgxY2ZiM2EtMWRmMi00M2ZkLWI1MDAtNzA2MDc0Y2Q1MzJlNjM3MTAzNDIwOTQ1NDA4NjM4"
+snipcart_api = "ZTU5MDI0ZGMtNmUzMC00NTU2LWI4ODQtZmNjNGUwNzZmNDA3NjM3MzUwODQzNzg4NzY5MTE5"
 [[params.plugins.css]]
 link = "https://fonts.googleapis.com/css?family=Droid+Serif:400|Josefin+Sans:300,400,600,700"
 [[params.plugins.css]]

@@ -75,7 +75,7 @@ products:
   enable: true
   title: Checkout Our All Products
 subscription:
-  enable: true
+  enable: false
   bg_image: images/call-to-action.jpg
   title: Updates
   content: Register here if you want to know whenever new items are on sale

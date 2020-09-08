@@ -51,7 +51,7 @@ weight = 4
 [params]
 author = "Themefisher"
 contact_form_action = "#"
-currency = "GBP"
+currency = "£"
 description = "This is meta description"
 logo = "/images/capture.PNG"
 logo_width = "100px"

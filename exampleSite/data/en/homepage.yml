@@ -1,11 +1,10 @@
 ---
 banner:
   enable: true
-  title: Believe in Technology, Make the change
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna. Lorem ipsum dolor sit amet, consectetur
-    adipisicing elit. Voluptas, modi fugit in veritatis labore perferendis. Minima
-    hic at, nostrum nihil!
+  title: Believe in sustainable space mining
+  content: US citizens “shall be entitled to any asteroid resource or space resource
+    obtained, including to possess, own, transport, use and sell the asteroid resource
+    or space resource obtained in accordance with applicable law
   image: "/images/s-2015_lro_earth_and_limb_m1199291564l_color_2stretch_mask_0.jpeg"
   button:
     enable: true
